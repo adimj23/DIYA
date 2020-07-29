@@ -4,16 +4,16 @@
 
  Adi Srinivasan, 7-14-20
  
-Describe the Question 
+## Describe the Question 
 
-_Describe the question that you chose from last week. Link it to your project plan here.
+Describe the question that you chose from last week. Link it to your project plan here._
 
 The question I have chosen to pursue is to see if we can predict if an application will be accepted based on the aspects of the application that are within control of the teacher.
 
 
 ## Dataset Exploration 
 
-_Identify the variable to be predicted (target variable) and identify the features that will be used for prediction. Provide some descriptive statistics of the variables you intend to use for the prediction (classification or regression). How would you justify the inclusion of the set of features to predict the target variable?_
+#### Identify the variable to be predicted (target variable) and identify the features that will be used for prediction. Provide some descriptive statistics of the variables you intend to use for the prediction (classification or regression). How would you justify the inclusion of the set of features to predict the target variable?
 
 The target variable would be the one indicating whether or not the project was approved. This would be a classification model, sorting instances into groups of was approved or wasn’t approved.
 
