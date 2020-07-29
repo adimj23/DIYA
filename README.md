@@ -3,13 +3,10 @@
 # Project: The Effect of Controllable Features on Acceptance of DonorsChoose Applications
 
  Adi Srinivasan, 7-14-20
-
-
-## _Come up with a name for your summer project. _ \
- \
+ 
 Describe the Question 
 
-_Describe the question that you chose from last week. Link it to your project plan here.  _
+_Describe the question that you chose from last week. Link it to your project plan here.
 
 The question I have chosen to pursue is to see if we can predict if an application will be accepted based on the aspects of the application that are within control of the teacher.
 
